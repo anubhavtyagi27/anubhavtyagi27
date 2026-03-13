@@ -142,7 +142,8 @@ Choose an LLM model, configure system instructions via a local file, and compare
 
 | | |
 |---|---|
-| 💼 LinkedIn | [linkedin.com/in/anubhavtyagi27](https://linkedin.com/in/anubhavtyagi27) |
-| 📧 Email | [work@anubhavtyagi.com](mailto:work@anubhavtyagi.com) |
-| 🌐 Resume | [resume.anubhavtyagi.com](https://resume.anubhavtyagi.com) |
-| 🔗 Portfolio | [anubhavtyagi27.github.io](https://anubhavtyagi27.github.io) |
+| LinkedIn | [linkedin.com/in/anubhavtyagi27](https://linkedin.com/in/anubhavtyagi27) |
+| Email | [work@anubhavtyagi.com](mailto:work@anubhavtyagi.com) |
+| Resume | [resume.anubhavtyagi.com](https://resume.anubhavtyagi.com) |
+| Portfolio | [anubhavtyagi27.github.io](https://anubhavtyagi27.github.io) |
+| Threads | [threads.com/anubhavtyagi27](https://www.threads.com/@anubhavtyagi27)
